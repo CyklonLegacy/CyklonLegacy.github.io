@@ -1,1 +1,1 @@
-
+document.write("MY ISO");
